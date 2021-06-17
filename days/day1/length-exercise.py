@@ -1,0 +1,1 @@
+print(len(input("Type a word to see its number of characters ")))
